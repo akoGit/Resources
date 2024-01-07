@@ -23,6 +23,7 @@
 | - [Dreams of Code](https://www.youtube.com/@dreamsofcode/videos) |                                                    |
 | - [Mr Mux408](https://www.youtube.com/@mr_mux408/videos) |                                                    |
 | - [Misha Kantaria](https://www.youtube.com/@MishaKantaria/videos) |                                                    |
+| - [GUI](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ) |                                                    |
 | **LeetCode**                                        |                                                    |
 | - [LeetCode Video Series](https://www.youtube.com/watch?v=zdMhGxRWutQ&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW) |                                                    |
 
