@@ -9,7 +9,7 @@
 | **Version Control**                                 | - [CSS Tricks](https://css-tricks.com/)               |
 | - [Git](https://t.ly/FeDre)                          | - [Codrops by Tympanus](https://tympanus.net/codrops/) |
 | **Interview Preparation**                           | - [Web.dev CSS Patterns](https://web.dev/patterns)    |
-| - [Interviews - Part 1](https://t.ly/PZHiV)          |                                                    |
+| - [Interviews - Part 1](https://t.ly/PZHiV)          | - [Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)    |                                                   |
 | - [Interviews - Part 2](https://t.ly/NdeNj)          | **HTML**                                              |
 | **Shell Scripting**                                  | - [Web.dev HTML Learning Path](https://web.dev/learn/html) |
 | - [Shell](https://t.ly/T7pz9)                        |                                                    |
